@@ -1,0 +1,283 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Steal a Superpower Roblox Guide: Powers, Bosses & Codes",
+  "description": "Explore Steal a Superpower on Roblox. Find codes, power cards, Dominus boss progression and ability packs in focused, independent guides.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Independent Roblox guide",
+    "heading": "Steal a Superpower Roblox Guide",
+    "lead": "Open ability packs, collect superpowers, fight Dominus bosses, and grow a cash-earning base in Steal a Superpower on Roblox.",
+    "supportingText": "Choose a focused guide below, or launch the game through its official Roblox page. This fan guide is not affiliated with Roblox or the developer.",
+    "primaryLink": {
+      "slug": "codes",
+      "label": "Find codes & rewards"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/74183246285569"
+    }
+  },
+  "sections": [
+    {
+      "id": "choose-your-guide",
+      "heading": "Find Your Next Step",
+      "paragraphs": [
+        "Looking for a reward, a new power, or the next area? Each guide covers a different part of the game."
+      ],
+      "links": [
+        {
+          "slug": "codes",
+          "label": "Codes",
+          "description": "Copy reported codes and follow the redemption steps."
+        },
+        {
+          "slug": "powers",
+          "label": "Power Cards",
+          "description": "Understand power categories, moves and card leveling."
+        },
+        {
+          "slug": "bosses",
+          "label": "Dominus Bosses",
+          "description": "Follow the boss-to-next-area progression loop."
+        },
+        {
+          "slug": "packs",
+          "label": "Ability Packs",
+          "description": "Check boss rewards and the advertised Legend Pack offer."
+        }
+      ]
+    },
+    {
+      "id": "what-is-steal-a-superpower",
+      "heading": "What Is Steal a Superpower on Roblox?",
+      "paragraphs": [
+        "Steal a Superpower is a Roblox game from 11 R$ Productions that combines collecting ability cards, fighting through zones and building a base. Your collection serves two purposes: cards provide combat moves, and cards placed on base holders generate cash. That makes it useful to understand both the fighting and collection sides before focusing on a single reward.",
+        "This Steal a Superpower guide is a wiki-style starting point for the systems described by the creator. It identifies the correct experience and helps you choose a focused guide. The official Play on Roblox link opens Place ID 74183246285569; the experience runs on Roblox, while this independent site supplies explanations and references."
+      ],
+      "subsections": [
+        {
+          "heading": "Game Identity and Official Play Link",
+          "paragraphs": [
+            "The creator name and the permanent Roblox place link are better identifiers than a changing update prefix. Use the link in the first screen to open the experience. This site does not host an embedded version, take Roblox login details or redeem rewards on your behalf."
+          ]
+        },
+        {
+          "heading": "A Collection, Combat and Base Loop",
+          "paragraphs": [
+            "Collecting a new card, developing an existing card and reaching another area are different kinds of progress. The following overview keeps those goals separate so that a question about getting packs leads to the pack guide, while a question about a boss leads to the progression guide."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "game-loop",
+      "heading": "How Does Progression Work?",
+      "paragraphs": [
+        "The developer description connects collecting, combat and base building. Packs yield power cards; cards provide moves, and leveling a card unlocks its strongest ability. Bosses gate progression through the zones.",
+        "There is also a long-term collection track: the Index rewards collecting rarities, while leaderboards track Top Cash and Top Power. These sit alongside the zone progression loop. Reaching the next area, earning cash and expanding the Index are related activities, but the description does not say that one automatically completes the others."
+      ],
+      "steps": [
+        {
+          "heading": "Open and collect",
+          "description": "Open ability packs to collect power cards. Different cards come with different sets of moves."
+        },
+        {
+          "heading": "Fight and progress",
+          "description": "Use your powers against enemies and Dominus bosses. Defeating bosses opens the next area and gives access to loot chests and packs."
+        },
+        {
+          "heading": "Build your base",
+          "description": "Put cards on holders to earn cash while you fight. The description also lists upgrades, trails and auras as ways to grow stronger."
+        }
+      ]
+    },
+    {
+      "id": "codes",
+      "heading": "Codes and Reward Claims",
+      "paragraphs": [
+        "Need a quick reward before your next run? Our code page separates media-reported rewards from in-game testing, includes copy buttons, and explains where to enter each code. No code on this site is guaranteed to remain redeemable."
+      ],
+      "links": [
+        {
+          "slug": "codes",
+          "label": "Copy reported reward codes"
+        }
+      ]
+    },
+    {
+      "id": "power-cards",
+      "heading": "Power Cards and Moves",
+      "paragraphs": [
+        "Lightning, fire, frost, gravity, time, shadow and gold are among the power categories named in the developer description. A category is not a ranked card or a promise of specific damage.",
+        "Start by looking at the moves on the card you actually own. The description gives each card its own moveset and ties its most powerful ability to leveling. A familiar category name such as fire or time does not establish a card’s level, damage or rarity. The dedicated guide separates named power types from card progression and the Ancient-card reference."
+      ],
+      "links": [
+        {
+          "slug": "powers",
+          "label": "Explore power categories and card upgrades"
+        }
+      ]
+    },
+    {
+      "id": "boss-progression",
+      "heading": "Dominus Bosses and Progression",
+      "paragraphs": [
+        "Bosses connect combat to exploration: beat a boss, open the next area, and collect the rewards. The description names Dominus Empyreus as the final boss; it does not provide a complete boss route.",
+        "Think of a boss victory as two checks: did the next area open, and what loot can you collect? That distinction helps you understand the result without assuming an exact pack drop or a fixed reward rate. Our boss guide describes the confirmed sequence and the systems to review before another attempt."
+      ],
+      "links": [
+        {
+          "slug": "bosses",
+          "label": "Understand boss progression"
+        }
+      ]
+    },
+    {
+      "id": "ability-packs",
+      "heading": "Ability Packs and Rewards",
+      "paragraphs": [
+        "Packs feed the card collection loop. Boss loot and reported code rewards are two routes to check, while the developer description also advertises a free Legend Pack for liking the game and joining its group.",
+        "A pack is a way to obtain a card, rather than a promise of a particular power. A Legend Pack offer, a boss-related pack and a reported potion code should not be treated as interchangeable rewards. Open the pack guide to compare the supported sources and use the code guide for exact strings and redemption instructions."
+      ],
+      "links": [
+        {
+          "slug": "packs",
+          "label": "See pack sources and the Legend Pack offer"
+        }
+      ]
+    },
+    {
+      "id": "base-and-cash",
+      "heading": "Build Your Base and Earn Cash",
+      "paragraphs": [
+        "Base holders let your card collection contribute cash while you are fighting. This is a separate role from the moves a card gives you in combat. The developer description explicitly connects cards on holders to earning cash, so your base remains part of the progression loop rather than a purely decorative area.",
+        "When deciding what to inspect next, distinguish a combat question from an income question. Missing a useful move points you toward card leveling; wanting to understand cash generation points you toward the cards and holders in your base. Read the values shown in the game before comparing income. This overview does not assume offline earnings, fixed production rates or a particular holder limit."
+      ]
+    },
+    {
+      "id": "upgrades-trails-auras",
+      "heading": "Upgrades, Trails and Auras",
+      "paragraphs": [
+        "Upgrades, trails and auras are named as systems that boost Power, Health and speed. They belong in a beginner’s overview because improving a card is not the only form of growth described by the creator. If combat feels stalled, review the available systems as well as your equipped moves.",
+        "The description groups those boosts together; it does not assign a specific stat to every trail or aura. Check the item or upgrade currently displayed before choosing it. A useful preparation note records which stat changes and what it costs in your game, rather than assuming all cosmetic-looking items have the same effect."
+      ]
+    },
+    {
+      "id": "kill-streaks",
+      "heading": "Kill Streaks, Multipliers and Critical Hits",
+      "paragraphs": [
+        "The creator also describes chaining kill streaks for bonus multipliers and critical hits. This adds a combat-related reward system alongside collecting cards and opening areas. Keep streak bonuses separate from a card’s listed moves when you review how a fight went.",
+        "No streak threshold or multiplier schedule is established by the description. If you compare attempts, use the streak and bonuses actually displayed in the game. The existence of the feature does not establish a permanent boost, a specific critical-hit rate or a guaranteed way to defeat a boss."
+      ]
+    },
+    {
+      "id": "index-and-leaderboards",
+      "heading": "The Index and Long-Term Collection",
+      "paragraphs": [
+        "The Index offers permanent rewards for the rarities you collect. That gives collection a purpose beyond using your current combat card or filling holders. The description also asks whether you can pull an Ancient card, but does not provide a full rarity order or an odds table.",
+        "Top Cash and Top Power leaderboards give two named progress measures. A high cash total and combat development answer different questions, so choose the system that fits your immediate goal. For card leveling and the Ancient reference, use the power-card guide; the homepage keeps the broader collection picture in view."
+      ],
+      "links": [
+        {
+          "slug": "powers",
+          "label": "Understand cards, Ancient pulls and Index rewards"
+        }
+      ]
+    },
+    {
+      "id": "choose-a-goal",
+      "heading": "What Should You Check Next?",
+      "paragraphs": [
+        "Use your current problem to choose the next page. These are navigation suggestions based on the described systems, rather than a tested speedrun route or an optimal spending order."
+      ],
+      "table": {
+        "caption": "Choose a guide by the task you want to complete",
+        "columns": [
+          "Your question",
+          "What to inspect",
+          "Next guide"
+        ],
+        "rows": [
+          [
+            "I have a code to claim.",
+            "Exact spelling, reported reward and redemption response.",
+            "Codes"
+          ],
+          [
+            "My card has more moves to unlock.",
+            "Its current level and moveset.",
+            "Powers"
+          ],
+          [
+            "I want to reach the next area.",
+            "Boss progression and the result of the fight.",
+            "Bosses"
+          ],
+          [
+            "I need another card source.",
+            "Boss packs, the advertised group offer and reported rewards.",
+            "Packs"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "official-game",
+      "heading": "Launch the Correct Roblox Game",
+      "paragraphs": [
+        "Use the Play on Roblox link above for Place ID 74183246285569. This guide sends you to Roblox; it does not run the experience inside this website. Sign in and redeem rewards within Roblox itself.",
+        "The game may display an update prefix in its title. Those prefixes can change; the official game link identifies the experience covered here."
+      ]
+    },
+    {
+      "id": "updates-and-sources",
+      "heading": "Game Updates and Source Notes",
+      "paragraphs": [
+        "Some listings have shown a WORLD 2 prefix, while other snapshots show a lightning symbol. Treat those as update labels on the same experience, not as enough evidence for a map walkthrough. The Roblox place link remains the identity used throughout this guide.",
+        "Mechanics on this page come from the developer description reproduced by the sources below. Code availability is a separate, fast-changing question handled on the code page with dated reports. When the creator changes a mechanic, the relevant focused guide and this overview should be checked together so they continue to describe the same game."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Steal a Superpower?",
+      "answer": "It is a Roblox experience built around ability packs, power cards, Dominus boss fights and a base where cards earn cash."
+    },
+    {
+      "question": "Can I play the game on this website?",
+      "answer": "Use Play on Roblox to open the official experience. Gameplay and code redemption happen in Roblox."
+    },
+    {
+      "question": "Is this the official wiki?",
+      "answer": "No. This is an independent fan guide. Sources and review dates are included so you can check the information yourself."
+    },
+    {
+      "question": "How do I start playing Steal a Superpower?",
+      "answer": "Open the official Roblox experience through Play on Roblox. The described loop is to open packs, collect and level cards, fight enemies and bosses, and use cards on base holders for cash."
+    },
+    {
+      "question": "What are the Index rewards for?",
+      "answer": "The developer description says collecting rarities in the Index earns permanent rewards. It does not give a complete rarity table or reward amounts."
+    },
+    {
+      "question": "Where are the detailed codes, powers and boss guides?",
+      "answer": "Use the four task cards near the top: Codes covers redemption, Powers covers cards and leveling, Bosses covers area progression, and Packs covers acquisition routes."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/74183246285569",
+      "title": "Steal a Superpower! on Roblox",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://game.roblox-jp.com/en/All/update/?find=Build&page=3",
+      "title": "Developer description reproduced by Roblox Game List",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-05"
+}

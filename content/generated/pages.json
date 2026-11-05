@@ -1,0 +1,833 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Steal a Superpower Codes (November 2026) & How to Redeem",
+    "description": "Copy reported Steal a Superpower codes for Roblox, check pack and potion rewards, and follow redemption steps with dated sources and in-game claim checks.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide",
+      "heading": "Steal a Superpower Codes",
+      "lead": "Find Steal a Superpower codes reported by gaming guides, copy a code, then redeem it inside Roblox. Source reports checked November 5, 2026; these codes have not been tested in-game by this site."
+    },
+    "sections": [
+      {
+        "id": "reported-codes",
+        "heading": "Reported Steal a Superpower Codes",
+        "paragraphs": [
+          "The list below records third-party reports, not a guarantee of current validity. Roblox Den listed seven codes on November 5; Pro Game Guides listed five on November 4. Different publication dates and coverage can produce different lists.",
+          "If you are searching for working Steal a Superpower codes, use the dated list as a starting point and let the game confirm each result. Copying a string preserves its spelling; it does not verify that the reward is still available."
+        ],
+        "codes": [
+          {
+            "code": "DISCORD",
+            "reward": "1 Legend Pack",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "POTIONS",
+            "reward": "1 Luck Potion II",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "1KCCU",
+            "reward": "1 Power Potion II",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "10KLIKES",
+            "reward": "1 Power Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "20KLIKES",
+            "reward": "1 Luck Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "SOZFORUPDATES",
+            "reward": "1 Power Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          },
+          {
+            "code": "30KLIKES",
+            "reward": "1 Luck Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "Reported active · not tested in-game"
+          }
+        ]
+      },
+      {
+        "id": "redeem",
+        "heading": "How to Redeem Steal a Superpower Codes",
+        "paragraphs": [
+          "Roblox Den and Pro Game Guides both describe the same redemption flow. Enter codes inside the experience, rather than on this website."
+        ],
+        "steps": [
+          {
+            "heading": "Launch the game",
+            "description": "Open Steal a Superpower through the official Roblox game page listed in Sources."
+          },
+          {
+            "heading": "Open Codes",
+            "description": "Select the Codes button at the top right of the game screen."
+          },
+          {
+            "heading": "Enter and redeem",
+            "description": "Paste the code into the entry box and select Redeem. Read the in-game response to confirm whether a reward was granted."
+          }
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Why Might a Code Not Work?",
+        "paragraphs": [
+          "Copy the spelling and capitalization as shown, and remove any spaces introduced before or after the code. Then read the response in the game. A report from a guide cannot override that response.",
+          "If the game says a code is expired or already redeemed, use that message to decide your next step. A failed claim alone does not tell this site that every player will see the same result. We do not label a code expired without supporting evidence."
+        ],
+        "subsections": [
+          {
+            "heading": "Check the Entered String",
+            "paragraphs": [
+              "Use the Copy button, paste into the game, and check for leading or trailing spaces. Roblox Den labels its codes case-sensitive, so preserve the capitalization as reported rather than changing it. This is a precaution based on that source, not a claim that this site tested the redemption engine."
+            ]
+          },
+          {
+            "heading": "Read the Response Before Trying Again",
+            "paragraphs": [
+              "Expiration, a previously redeemed claim, a typo or a change after an update are possible explanations for a failure. They are troubleshooting possibilities, not diagnoses of an individual code. Keep the exact response if you want to compare a report with what your account sees."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reward-types",
+        "heading": "What Rewards Are Reported?",
+        "paragraphs": [
+          "The reported rewards include Luck Potions, Power Potions and a Legend Pack. Potion names are recorded as published; no duration, multiplier or drop-rate effect is promised here. A pack and a potion are different rewards."
+        ],
+        "links": [
+          {
+            "slug": "packs",
+            "label": "Understand pack rewards",
+            "description": "See how packs connect to power cards and other acquisition routes."
+          }
+        ],
+        "table": {
+          "caption": "Reward names in the checked reports",
+          "columns": [
+            "Reported reward",
+            "How to interpret the name"
+          ],
+          "rows": [
+            [
+              "Legend Pack",
+              "A pack reward; inspect the actual card result after opening."
+            ],
+            [
+              "Luck Potion II / III",
+              "Named potion rewards. This guide does not assign an effect duration or a numerical multiplier."
+            ],
+            [
+              "Power Potion II / III",
+              "Named potion rewards. They are not listed as card packs."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "new-codes",
+        "heading": "Where to Check for New Codes",
+        "paragraphs": [
+          "Start with the official game page and follow developer community links from Roblox. Check the game description and current announcements after updates. Source dates on this page show when the reports were reviewed, not when we successfully redeemed a code.",
+          "We have no game-tested expired-code list as of the review date. This does not mean every reported code is still available."
+        ]
+      },
+      {
+        "id": "source-review-log",
+        "heading": "Code Source Review Log",
+        "paragraphs": [
+          "November 5, 2026: this page records the seven entries visible in Roblox Den’s dated report. Pro Game Guides’ November 4 list contains five entries, while Destructoid’s November 4 report lists 20KLIKES. Those differences are preserved as source coverage differences; omission from one article is not proof that a code expired.",
+          "The dates describe published reports and this page’s source review. There is no first-person redemption timestamp to report. A future revision should update a code’s status only with supporting evidence rather than automatically treating every older entry as expired."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is the Codes button?",
+        "answer": "The media redemption guides place it at the top right of the game screen. Enter the code there and press Redeem."
+      },
+      {
+        "question": "Are these codes tested by this site?",
+        "answer": "No. They are media-reported codes with a source and a review date. The game determines whether each claim succeeds."
+      },
+      {
+        "question": "Does DISCORD give a Legend Pack?",
+        "answer": "Roblox Den and Pro Game Guides report a Legend Pack for DISCORD. Availability is not guaranteed; confirm the redemption response in-game."
+      },
+      {
+        "question": "How do you redeem Steal a Superpower Roblox codes?",
+        "answer": "Open the game on Roblox, select Codes at the top right, paste the exact string and press Redeem. The game’s response confirms whether your account received a reward."
+      },
+      {
+        "question": "Are Steal a Superpower codes case-sensitive?",
+        "answer": "Roblox Den labels its listed codes case-sensitive. Preserve the exact characters when copying. This site has not independently tested capitalization behavior."
+      },
+      {
+        "question": "Are all reported codes still active?",
+        "answer": "Their current availability is not guaranteed. Each row records a source report and review date; the game determines whether an individual claim succeeds."
+      }
+    ],
+    "relatedSlugs": [
+      "packs",
+      "powers"
+    ],
+    "lastReviewed": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569",
+        "title": "Steal a Superpower! on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://game.roblox-jp.com/en/All/update/?find=Build&page=3",
+        "title": "Developer description reproduced by Roblox Game List",
+        "sourceType": "guide"
+      },
+      {
+        "url": "https://robloxden.com/game-codes/steal-a-superpower",
+        "title": "Roblox Den: reported codes and rewards",
+        "sourceType": "guide"
+      },
+      {
+        "url": "https://progameguides.com/roblox/steal-a-superpower-codes/",
+        "title": "Pro Game Guides: November 4 code report",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "powers",
+    "pageType": "article",
+    "navLabel": "Powers",
+    "title": "Steal a Superpower Powers: Cards, Types & Leveling",
+    "description": "Explore Steal a Superpower powers, ability cards and leveling. Learn the named types, Ancient-card reference and Index rewards, without invented tiers.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide",
+      "heading": "Steal a Superpower Powers Guide",
+      "lead": "Steal a Superpower powers come through collectible cards with their own moves. The developer description names seven categories and says leveling a card unlocks its most powerful ability."
+    },
+    "sections": [
+      {
+        "id": "power-types",
+        "heading": "Confirmed Power Types in Steal a Superpower",
+        "paragraphs": [
+          "The named categories are lightning, fire, frost, gravity, time, shadow and gold. They describe powers mentioned in the game description, rather than a complete card catalog or a strength ranking."
+        ],
+        "table": {
+          "caption": "Power categories named in the developer description",
+          "columns": [
+            "Power category",
+            "What is established"
+          ],
+          "rows": [
+            [
+              "Lightning",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Fire",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Frost",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Gravity",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Time",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Shadow",
+              "Named power category; individual card moves and stats depend on the card."
+            ],
+            [
+              "Gold",
+              "Named power category; individual card moves and stats depend on the card."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "cards-and-moves",
+        "heading": "How Power Cards and Moves Work",
+        "paragraphs": [
+          "A card has its own set of moves. The useful distinction is between collecting a power and developing the card that carries it: getting a card introduces a moveset, while card leveling opens its strongest ability.",
+          "Read the moves shown on your actual card before comparing it with another. Category names alone do not establish range, damage, cooldown or usefulness in a particular fight."
+        ],
+        "subsections": [
+          {
+            "heading": "Getting Cards from Ability Packs",
+            "paragraphs": [
+              "Ability packs are the source of collectible power cards in the description. Opening another pack contributes to your collection; it does not by itself say that an existing card leveled up. Keep the new-card result and the current card’s progression separate when checking what changed."
+            ]
+          },
+          {
+            "heading": "A Moveset Belongs to a Card",
+            "paragraphs": [
+              "The description gives every card its own set of moves. Two category names alone cannot settle which moves are available to your character. Look at the actual card you are using, including what it has already unlocked, before planning your next fight."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "leveling",
+        "heading": "Leveling Your Power Cards",
+        "paragraphs": [
+          "The developer description explicitly connects card levels to unlocking an ability. It does not supply a universal experience requirement, level cap or exact upgrade cost. Use the card information displayed in your current game version for those details.",
+          "A practical check before a boss attempt is to review which moves your equipped card has already unlocked. This is a preparation suggestion based on the leveling mechanic, not a claim that any particular card wins the fight."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "Check the boss progression loop"
+          }
+        ]
+      },
+      {
+        "id": "powers-in-combat",
+        "heading": "Using Powers in Combat",
+        "paragraphs": [
+          "Powers are used against enemies as you fight through zones and approach Dominus bosses. The description says the world breaks apart around you during combat. That describes the environment; it does not establish a special damage bonus for breaking a particular wall or object.",
+          "For a useful combat comparison, keep the card and its level visible in your notes. Record the moves you can use and which boss or zone you are trying to reach. If a result changes after several upgrades at once, you cannot reliably attribute that improvement to the power category alone. This is a comparison method, not a claim of a tested build."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "See where card preparation fits into boss progression"
+          }
+        ]
+      },
+      {
+        "id": "ancient-cards-and-index",
+        "heading": "Ancient Cards and Rarities",
+        "paragraphs": [
+          "The developer description asks whether you can pull an Ancient card. Ancient is therefore a named collection reference, rather than a rarity label inferred from the color of a screenshot. The same description links completing the Index to permanent rewards for collected rarities.",
+          "These are two different pieces of information: Ancient is mentioned as a card you might pull, while the Index tracks collection progress across rarities. Neither statement provides an exhaustive rarity ladder, a guarantee of the strongest card, or a pull percentage."
+        ],
+        "subsections": [
+          {
+            "heading": "What Is Confirmed About Ancient Cards",
+            "paragraphs": [
+              "Ancient cards are explicitly mentioned by the creator. The source does not give their individual names, full movesets, acquisition odds or damage. An Ancient label should not be converted into an invented S-tier recommendation."
+            ]
+          },
+          {
+            "heading": "Index Rewards and Collection Progress",
+            "paragraphs": [
+              "Use the Index shown in your game to see which collection entries or rarity rewards you have obtained. Keep the reward display separate from the card’s level: collecting a rarity and unlocking a card move are different forms of progress."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "",
+            "label": "Return to the game and collection overview"
+          }
+        ]
+      },
+      {
+        "id": "cards-at-base",
+        "heading": "Cards in Your Base",
+        "paragraphs": [
+          "Cards also have an economic role. The description says cards placed on base holders earn cash while you fight. This connects your collection to base growth as well as combat.",
+          "When deciding what to do next, distinguish the card you are using for moves from the cards you want producing cash on holders. Inspect the game UI for actual income figures; no income rate is inferred from a category name."
+        ]
+      },
+      {
+        "id": "getting-powers",
+        "heading": "Getting More Powers",
+        "paragraphs": [
+          "Ability packs are the collection route described for power cards. Boss-related rewards and the advertised Legend Pack group offer connect back to that pack-opening loop."
+        ],
+        "links": [
+          {
+            "slug": "packs",
+            "label": "Find sources of ability packs"
+          }
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "How to Read a Power Comparison",
+        "paragraphs": [
+          "Compare the actual card, its current level and its available moves in the game. Those observations are more useful than treating an elemental name as a tier.",
+          "This page does not assign S/A/B grades or name a best card. The cited description establishes the categories and upgrade system, but does not establish a measured ranking."
+        ],
+        "subsections": [
+          {
+            "heading": "Is There a Best Power?",
+            "paragraphs": [
+              "A reliable best-power recommendation needs an identified card, a level, available moves and the situation being compared. The source description supplies the category names and progression system, but no measured comparison. Use those concrete fields when evaluating a recommendation you find elsewhere."
+            ]
+          },
+          {
+            "heading": "What to Record When Comparing Cards",
+            "paragraphs": [
+              "Record the card name displayed in-game, its category if shown, its level, unlocked moves and the task you tested. Avoid treating a single successful fight as a universal ranking. The same notes also make it easier to spot whether a later update changed the card or only your other upgrades."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which powers are mentioned in the description?",
+        "answer": "Lightning, fire, frost, gravity, time, shadow and gold are named. The description also says there are more."
+      },
+      {
+        "question": "How do you unlock a card’s strongest ability?",
+        "answer": "The developer description says to level up the card. It does not give a universal level requirement."
+      },
+      {
+        "question": "Can cards earn cash?",
+        "answer": "Yes. The description says cards placed on base holders earn cash while you fight."
+      },
+      {
+        "question": "What is confirmed about Ancient cards?",
+        "answer": "The creator mentions pulling an Ancient card. The source does not establish a full rarity order or any Ancient pull odds."
+      },
+      {
+        "question": "What is the best power in Steal a Superpower?",
+        "answer": "This guide has no verified universal ranking. Compare the actual card, current level, unlocked moves and the fight you are preparing for rather than assigning a tier from its category name."
+      }
+    ],
+    "relatedSlugs": [
+      "packs",
+      "bosses"
+    ],
+    "lastReviewed": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569",
+        "title": "Steal a Superpower! on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://game.roblox-jp.com/en/All/update/?find=Build&page=3",
+        "title": "Developer description reproduced by Roblox Game List",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "bosses",
+    "pageType": "article",
+    "navLabel": "Bosses",
+    "title": "Steal a Superpower Bosses: Dominus & Progression Guide",
+    "description": "Learn how Steal a Superpower bosses unlock new areas, loot chests and packs. Follow Dominus progression and the final-boss reference to Dominus Empyreus.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide",
+      "heading": "Steal a Superpower Bosses Guide",
+      "lead": "Steal a Superpower bosses gate the next area and connect combat to loot chests and packs. The developer description names Dominus Empyreus as the final boss."
+    },
+    "sections": [
+      {
+        "id": "dominus-bosses",
+        "heading": "What Are Dominus Bosses?",
+        "paragraphs": [
+          "Dominus bosses are the progression fights named in the developer description. The stated objective is to fight through zones and defeat bosses to open the next area. This is the confirmed progression loop, rather than a complete boss-by-boss walkthrough."
+        ],
+        "subsections": [
+          {
+            "heading": "Bosses as Progression Gates",
+            "paragraphs": [
+              "The stated reason to defeat a boss is to open the next area. If your goal is a new zone, focus on what the game shows before and after the boss fight. A general increase in cash or a new card is a different kind of progress and should not be mistaken for an area unlock."
+            ]
+          },
+          {
+            "heading": "What Changes After Winning",
+            "paragraphs": [
+              "Check the path to the next area and the available loot separately. This lets you distinguish an exploration result from a collection reward. The description does not set a universal player level, required damage number or reset schedule for these gates."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "Boss Progression: Fight, Unlock, Collect",
+        "paragraphs": [
+          "Use this sequence to understand what each successful boss fight is meant to advance. Exact interaction prompts and area requirements should be checked in the current game."
+        ],
+        "steps": [
+          {
+            "heading": "Fight through a zone",
+            "description": "Use the moves available on your power card against enemies as you progress toward the boss."
+          },
+          {
+            "heading": "Defeat the boss",
+            "description": "The description says defeating bosses opens the next area. It does not list all bosses or their health."
+          },
+          {
+            "heading": "Check the loot",
+            "description": "The stated reward loop includes loot chests and packs you can carry home. Inspect the actual reward in-game rather than assuming a particular pack or drop chance."
+          }
+        ]
+      },
+      {
+        "id": "boss-loot-chests",
+        "heading": "Boss Loot: Chests and Packs",
+        "paragraphs": [
+          "Boss loot chests are part of the reward sequence described by the creator. The wording connects defeating bosses, cracking open their chests and carrying packs home. It does not identify a named pack for each boss, so there is no supported boss-to-pack drop table to memorize here.",
+          "After a fight, check what the game actually offers and record the pack name if one is shown. A pack reward is not the same as an already revealed power card: opening the pack belongs to the collection step. Keeping those steps separate helps you understand what a boss has awarded without guessing the card inside."
+        ],
+        "table": {
+          "caption": "Separate the outcomes of a boss victory",
+          "columns": [
+            "Outcome",
+            "What it means",
+            "What to check in-game"
+          ],
+          "rows": [
+            [
+              "Next area",
+              "Progression beyond the current zone.",
+              "Whether the next route has opened."
+            ],
+            [
+              "Loot chest",
+              "A reward interaction described after boss fights.",
+              "The available chest and its displayed result."
+            ],
+            [
+              "Pack",
+              "An item connected to card collection.",
+              "The exact pack received, rather than assumed odds."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "empyreus",
+        "heading": "Dominus Empyreus",
+        "paragraphs": [
+          "Dominus Empyreus is called the final boss in the description reproduced by the cited sources. That establishes its name and stated role, but does not establish its location, health, attack patterns or a reliable winning build.",
+          "If an update changes the available worlds or bosses, check the current game description before treating that designation as a complete endgame route."
+        ]
+      },
+      {
+        "id": "preparation",
+        "heading": "Before Your Next Boss Attempt",
+        "paragraphs": [
+          "Review the moves your card currently offers. Card leveling unlocks a stronger ability; upgrades, trails and auras are also described as boosting Power, Health and speed. These systems give you concrete things to inspect when progression stalls.",
+          "This is a preparation checklist, not a tested combat strategy: check your card level, available moves and the boosts actually shown by the game. No dodge timing, damage threshold or potion combination is assumed."
+        ],
+        "links": [
+          {
+            "slug": "powers",
+            "label": "Review power cards and leveling"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "Review Your Power Card",
+            "paragraphs": [
+              "Check the card you are using and the moves it has unlocked. Leveling is confirmed to unlock the card’s most powerful ability, but the description does not give a shared required level. Review the actual card display before assuming you have its full moveset."
+            ]
+          },
+          {
+            "heading": "Check Power, Health and Speed Systems",
+            "paragraphs": [
+              "Inspect upgrades, trails and auras available in your current version. The description says these systems boost Power, Health and speed, but does not assign every item to a specific stat. Treat the displayed effects as information to review, not proof of an optimal purchase order."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "boss-rewards",
+        "heading": "Boss Rewards and Ability Packs",
+        "paragraphs": [
+          "The developer text links boss victories to opening the next area, cracking loot chests and carrying packs home. Keep progression and collection separate when checking the result of a fight: an area unlock answers where you can go; a pack contributes to your card collection.",
+          "If you are deciding between another fight and developing a card, separate the question into two parts: do you understand your current moves, and is the next area still locked? The powers guide handles card development, while the packs guide handles further collection. These links continue the task without inventing a complete route through every zone."
+        ],
+        "links": [
+          {
+            "slug": "packs",
+            "label": "See how pack rewards feed your collection"
+          }
+        ]
+      },
+      {
+        "id": "boss-attempt-notes",
+        "heading": "A Useful Boss-Attempt Checklist",
+        "paragraphs": [
+          "Before retrying, note the boss name shown, your current card and unlocked moves, and any boosts visibly active. Afterward, note whether the next area opened and what reward was displayed. This is a way to organize your own observations; it is not evidence that the site has tested a fight.",
+          "Change one part of your preparation at a time when you want to understand a difference. A better result after changing both the card and several upgrades cannot establish which change helped. Avoid advice that gives exact health thresholds or attack timings without identifying the game version and showing the supporting fight."
+        ],
+        "links": [
+          {
+            "slug": "",
+            "label": "Review the wider base, collection and upgrade systems"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What happens after you defeat a boss?",
+        "answer": "The description says bosses open the next area and connect to loot chests and packs."
+      },
+      {
+        "question": "Who is Dominus Empyreus?",
+        "answer": "Dominus Empyreus is named as the final boss in the cited developer-description mirrors."
+      },
+      {
+        "question": "Is there a full boss health or location list?",
+        "answer": "The sources used for this guide do not provide a verified full list. Check the current game for those details."
+      },
+      {
+        "question": "What is the best build for Dominus bosses?",
+        "answer": "No independently tested build is established by the sources used here. Inspect card moves and the Power, Health and speed systems in your game; this guide does not invent a universal combination."
+      }
+    ],
+    "relatedSlugs": [
+      "powers",
+      "packs"
+    ],
+    "lastReviewed": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569",
+        "title": "Steal a Superpower! on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://game.roblox-jp.com/en/All/update/?find=Build&page=3",
+        "title": "Developer description reproduced by Roblox Game List",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "packs",
+    "pageType": "article",
+    "navLabel": "Packs",
+    "title": "Steal a Superpower Packs: How to Get Ability Packs",
+    "description": "Find Steal a Superpower packs through boss loot, the free Legend Pack group offer and reported code rewards. Check sources, offer conditions and claim results.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide",
+      "heading": "Steal a Superpower Packs Guide",
+      "lead": "Steal a Superpower packs are opened for power cards. Check the boss reward loop, media-reported code rewards and the developer’s advertised Legend Pack group offer."
+    },
+    "sections": [
+      {
+        "id": "pack-purpose",
+        "heading": "What Do Ability Packs Do?",
+        "paragraphs": [
+          "Opening an ability pack is how the developer description introduces collecting powers. The resulting cards have their own moves, and card leveling unlocks the strongest ability. A pack is the collection item; the card is what provides the moves.",
+          "That distinction helps when checking a reward: receiving a pack does not tell you which card you will pull. The cited description does not provide individual card drop tables."
+        ],
+        "links": [
+          {
+            "slug": "powers",
+            "label": "Learn what power cards unlock"
+          }
+        ],
+        "subsections": [
+          {
+            "heading": "From Packs to Power Cards",
+            "paragraphs": [
+              "An ability pack contributes to collecting cards. Inspect the card revealed when you open it before deciding whether it belongs in your combat setup or on a holder. The name of the pack alone does not establish the identity or stats of its contents."
+            ]
+          },
+          {
+            "heading": "Cards and Movesets",
+            "paragraphs": [
+              "The resulting cards have their own moves, and card leveling unlocks a stronger ability. Getting another pack and developing a card are separate activities. If your immediate question is about a move you already own, follow the power-card guide rather than assuming you need a different pack."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pack-sources",
+        "heading": "How to Get Packs in Steal a Superpower",
+        "paragraphs": [
+          "These are the acquisition routes supported by the description or dated code reports. A route being described does not guarantee a particular reward is available to your account today."
+        ],
+        "table": {
+          "caption": "Pack acquisition routes and evidence",
+          "columns": [
+            "Route",
+            "What the source says",
+            "What to check"
+          ],
+          "rows": [
+            [
+              "Boss rewards",
+              "Defeat bosses, open loot chests and carry packs home.",
+              "The actual reward shown after the fight."
+            ],
+            [
+              "Group offer",
+              "Like the game and join its group for a free Legend Pack.",
+              "The current offer and any in-game claim instructions."
+            ],
+            [
+              "Reported code reward",
+              "Media guides list DISCORD for a Legend Pack.",
+              "The code page source date and in-game redemption response."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "legend-pack",
+        "heading": "Free Legend Pack: The Group Offer",
+        "paragraphs": [
+          "The reproduced developer description advertises a free Legend Pack for liking the game and joining the group. Start from the official Roblox experience to locate its creator community.",
+          "Those are the stated conditions in the description. It does not establish the claim button’s location, whether there is a cooldown, or whether an account can claim repeatedly. Follow any current instructions shown by the game; this guide does not promise a successful claim."
+        ],
+        "subsections": [
+          {
+            "heading": "Check the Offer Before Claiming",
+            "paragraphs": [
+              "Read the current description on the official Roblox page first. Follow the creator community link from that page so you can identify the intended group. Like-and-join conditions come from the advertised offer; this guide does not replace them with a different community link."
+            ]
+          },
+          {
+            "heading": "Check the Claim Result Separately",
+            "paragraphs": [
+              "Meeting the described conditions and receiving the item are separate checks. Follow any claim instructions shown in your game and inspect the reward response or inventory result. The description does not establish a repeat-claim schedule, a cooldown or a guarantee for an account that has already claimed."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "code-packs",
+        "heading": "Packs from Codes",
+        "paragraphs": [
+          "DISCORD is reported as a Legend Pack reward by Roblox Den and Pro Game Guides. Treat it as a dated report and confirm the claim inside the game. The code page includes the exact code, source, review date and copy action.",
+          "The other rewards recorded there are potions. Do not assume that every code opens a pack or that a potion is itself a pack.",
+          "Keep the group offer and the code claim separate even though both mention a Legend Pack. The former comes from the creator description; the latter is a media report about a redeemable string. One claim failing does not establish the status of the other, and this guide does not assume the rewards can be combined or claimed repeatedly."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Copy reported pack and potion codes"
+          }
+        ]
+      },
+      {
+        "id": "pack-loop",
+        "heading": "From Packs to Progression",
+        "paragraphs": [
+          "The supported loop is simple: open packs, collect cards, develop card moves, and use powers in combat. Bosses can lead back to more packs, while cards on base holders earn cash.",
+          "When choosing your next action, decide whether you need another card, more progress with your existing moves, or base income. That is a way to organize the described systems, rather than an untested best-pack recommendation.",
+          "For boss-earned packs, inspect the reward after the victory before planning around it. For a reported code, inspect the redemption response before assuming it added a pack. After opening a pack, inspect the resulting card. This short sequence separates three different confirmations that are easy to conflate: a claim succeeded, a pack was received, and a card was revealed."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "Follow the boss-to-pack reward loop"
+          }
+        ]
+      },
+      {
+        "id": "pack-choice",
+        "heading": "Choosing Which Pack Route to Check",
+        "paragraphs": [
+          "If you are already progressing through zones, the boss-and-chest loop is the route described alongside those fights. If you are reviewing a free reward, start with the current group offer or dated code report. These are different starting points, not a ranked list of fastest farming methods.",
+          "Use the game’s displayed conditions, reward names and results to compare your available options. The sources do not establish prices, drop percentages or the expected number of openings needed for an Ancient card. A claim about the best-value pack would need that information; none is implied by this source list."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "Review the boss reward sequence"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What do packs contain?",
+        "answer": "The developer description says ability packs provide power cards. Exact individual drop tables are not supplied."
+      },
+      {
+        "question": "How do you get the free Legend Pack?",
+        "answer": "The description advertises liking the game and joining its group. Check the current Roblox page and in-game instructions for the offer."
+      },
+      {
+        "question": "What are the pack prices and odds?",
+        "answer": "The cited sources do not establish a complete price list or drop-rate table. This guide does not assign guessed values."
+      },
+      {
+        "question": "Are ability packs and card packs different systems?",
+        "answer": "The guides use card packs as a descriptive name for packs opened to collect power cards. The cited description calls them ability packs; it does not establish a separate product type just because wording differs."
+      },
+      {
+        "question": "Is the free Legend Pack offer the same as the DISCORD code?",
+        "answer": "They are different reported acquisition routes: like and join comes from the developer description, while DISCORD is a dated media code report. Check each route’s actual conditions and result independently."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "powers",
+      "bosses"
+    ],
+    "lastReviewed": "2026-11-05",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569",
+        "title": "Steal a Superpower! on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://game.roblox-jp.com/en/All/update/?find=Build&page=3",
+        "title": "Developer description reproduced by Roblox Game List",
+        "sourceType": "guide"
+      },
+      {
+        "url": "https://robloxden.com/game-codes/steal-a-superpower",
+        "title": "Roblox Den: reported codes and rewards",
+        "sourceType": "guide"
+      },
+      {
+        "url": "https://progameguides.com/roblox/steal-a-superpower-codes/",
+        "title": "Pro Game Guides: November 4 code report",
+        "sourceType": "guide"
+      }
+    ]
+  }
+]
