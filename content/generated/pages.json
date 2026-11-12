@@ -829,5 +829,869 @@
         "sourceType": "guide"
       }
     ]
+  },
+  {
+    "enabled": true,
+    "slug": "tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Steal a Superpower Tier List: Best Powers & Cards",
+    "description": "An evidence-first Steal a Superpower tier list: compare cards for combat, boss progress, and base cash without invented S-tier ratings or unverified stats.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Steal a Superpower Roblox guide",
+      "heading": "Steal a Superpower Tier List",
+      "lead": "Which Steal a Superpower card is best? There is no verified public card-by-card damage or cooldown ranking yet. Use this transparent comparison guide to choose what to test before investing in a power card."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Steal a Superpower Tier List: What Can Actually Be Ranked?",
+        "paragraphs": [
+          "A reliable tier list must compare cards that players can actually identify and test. The official Roblox description confirms lightning, fire, frost, gravity, time, shadow and gold as examples of superpowers. It also says every card has its own moveset and leveling unlocks its most powerful ability. However, it does not supply the damage, attack speed, cooldowns or acquisition odds needed for an honest S-to-D ranking.",
+          "That means a list declaring lightning S-tier and gold B-tier today would be speculation, not a useful guide. This page separates verified systems from decisions you can make in your own game. It is deliberately different from the Powers guide, which documents the available types and how cards are leveled.",
+          "The fastest practical answer is to compare two cards in the same zone, with similar progression and the same upgrades, while recording how much they help your real goal. A card that clears the next boss for you may be more useful than a flashy card that you cannot level or consistently land."
+        ],
+        "links": [
+          {
+            "slug": "powers",
+            "label": "See confirmed power types",
+            "description": "The source-backed power categories and leveling rules"
+          },
+          {
+            "slug": "bosses",
+            "label": "Read boss progression",
+            "description": "Know what clearing a boss unlocks"
+          }
+        ]
+      },
+      {
+        "id": "evidence",
+        "heading": "Current Evidence and the Rating Standard",
+        "paragraphs": [
+          "The creator describes cards and their upgrade loop, but no official tier chart is published in that description. Third-party rankings may be useful leads, yet an unsupported ordering should not be treated as an established fact. This guide does not convert rarity words into damage scores.",
+          "For every potential tier placement, check four things: a clearly named card; the game version or observation date; a comparable encounter; and a repeatable result. Without those, a letter grade would create false precision. An unknown value is not a weak card—it is simply a value that needs observation."
+        ],
+        "table": {
+          "caption": "What is verified versus what still needs a test",
+          "columns": [
+            "Evidence area",
+            "What is established",
+            "What remains unverified"
+          ],
+          "rows": [
+            [
+              "Named elements",
+              "Lightning, fire, frost, gravity, time, shadow and gold appear in the developer description",
+              "Full card roster and one-to-one element-to-card mapping"
+            ],
+            [
+              "Card progression",
+              "Each card has a moveset and can be leveled to unlock its strongest move",
+              "Levels required and move-by-move values"
+            ],
+            [
+              "Boss fights",
+              "Defeating Dominus bosses opens the next zone",
+              "Fastest card, boss damage and cooldown comparison"
+            ],
+            [
+              "Base holders",
+              "Placed cards generate cash while you fight",
+              "Cash per card and exact holder capacity"
+            ],
+            [
+              "Rarity",
+              "The description names an Ancient card",
+              "Whether a rarity guarantees a better combat result"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "compare",
+        "heading": "Compare Cards by the Task You Want to Complete",
+        "paragraphs": [
+          "Instead of declaring a universal winner, pick the single task you care about: fighting regular enemies, defeating a Dominus boss, farming packs, or earning passive cash. The same card could be strong for one task and mediocre for another, so comparisons should not mix different objectives.",
+          "If two powers look close, compare how reliably you can land the moves rather than relying on a one-off large hit. For boss attempts, the practical question is whether you survive and finish the encounter. For cash generation, the holder's actual displayed output matters more than combat animation. The public description does not establish that combat ranking and base income ranking are identical."
+        ],
+        "table": {
+          "caption": "Decision framework — not fabricated letter grades",
+          "columns": [
+            "Player objective",
+            "Useful comparison",
+            "Avoid assuming"
+          ],
+          "rows": [
+            [
+              "Clear a boss",
+              "Same boss, similar upgrades, time to victory and survival",
+              "One impressive hit equals best overall DPS"
+            ],
+            [
+              "Progress through zones",
+              "Consistent enemy clear and safe movement",
+              "A power element automatically determines rank"
+            ],
+            [
+              "Upgrade a favorite card",
+              "Actual move unlock at the card's level",
+              "All cards unlock at the same level"
+            ],
+            [
+              "Earn cash in the base",
+              "Displayed holder income from an owned card",
+              "Higher combat damage always means higher cash"
+            ],
+            [
+              "Collect rarities",
+              "Index progress and real pull notifications",
+              "Badge percentages equal pack drop rates"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "testing",
+        "heading": "How to Make a Personal Tier List in Game",
+        "paragraphs": [
+          "Start by writing down the exact names of cards you own. Keep the same zone, boss and upgrade level when comparing two candidates. Record the moves you actually used, how long the fight took and whether the run succeeded. Do two or more trials before concluding one card is consistently better.",
+          "Next, note any change when you level a card and unlock a stronger ability. Testing a level-one card against a fully developed card only measures your progression gap; it does not settle which card is inherently better. If you use potions, trails or auras, record them because the developer explicitly lists those systems as ways to improve Power, Health and speed.",
+          "Finally, keep a separate base-income column. Cards placed on holders produce cash while you fight. You can compare the holder values shown to you, but do not publish made-up per-second rates. An honest local comparison helps you choose a card now and leaves room for the game to change later."
+        ],
+        "steps": [
+          {
+            "heading": "Choose a target",
+            "description": "Pick one boss or one farming zone before testing powers."
+          },
+          {
+            "heading": "Keep conditions steady",
+            "description": "Use similar upgrade levels and note any potions or auras."
+          },
+          {
+            "heading": "Record actual results",
+            "description": "Compare success, time, reliability and holder income separately."
+          }
+        ]
+      },
+      {
+        "id": "rarity",
+        "heading": "Is Ancient Automatically the Best Power?",
+        "paragraphs": [
+          "The official description challenges players to pull an Ancient card and defeat Dominus Empyreus, the final boss. Ancient is therefore a meaningful collection milestone, but the description does not reveal every Ancient card's statistics or guarantee that every Ancient pull outperforms every other card in all situations.",
+          "Likewise, a free Legend Pack is explicitly mentioned as a reward for liking the game and joining the group. The pack's name is not a reliable combat ranking for its contents. Do not confuse the probability of acquiring a rarity with the performance of an individual card after you obtain it.",
+          "Use the Index as a separate collection goal. Completing rarities is associated with permanent rewards according to the developer, but an Index milestone is not a controlled test of damage. For the acquisition routes, check the Packs guide rather than guessing a pack-to-card table."
+        ],
+        "links": [
+          {
+            "slug": "packs",
+            "label": "How ability packs work",
+            "description": "Compare confirmed pack sources and rewards"
+          },
+          {
+            "slug": "wiki",
+            "label": "Browse the wiki",
+            "description": "Jump between gameplay systems"
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "heading": "When Will This Tier List Have S, A and B Rankings?",
+        "paragraphs": [
+          "A defensible public letter-grade list needs repeatable card comparisons or official data. Until those exist, this page keeps the ranking status explicit: no independently verified S/A/B/C placements are asserted. An absent rating should never be interpreted as a zero or bad rank.",
+          "The developer can rebalance cards, add areas or change a moveset. If you test your collection, keep a date, the card name and the actual outcome together. That evidence is more useful than presenting an invented tier chart. This page was reviewed on the date shown above for the official mechanics and public evidence, not through a direct play-session benchmark."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best card in Steal a Superpower?",
+        "answer": "No public official damage or cooldown table currently supports a verified universal best card. Compare the powers you own against the task you are trying to complete."
+      },
+      {
+        "question": "Is there an official Steal a Superpower tier list?",
+        "answer": "The game's public Roblox description explains powers and leveling but does not publish an official ranked card tier list."
+      },
+      {
+        "question": "Are Ancient cards guaranteed to win boss fights?",
+        "answer": "No such guarantee is provided in the official description. Ancient is a collection milestone, not published proof of a win rate."
+      },
+      {
+        "question": "Should I compare cards for combat or cash?",
+        "answer": "Compare both separately: equipped cards provide moves, while cards placed on base holders generate cash."
+      }
+    ],
+    "relatedSlugs": [
+      "powers",
+      "bosses",
+      "packs",
+      "wiki"
+    ],
+    "lastReviewed": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569/Steal-a-Superpower",
+        "title": "Steal a Superpower! — official Roblox description",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://stealasuperpower.com/wiki/",
+        "title": "Independent wiki: public UI labels and gameplay source comparison",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "wiki",
+    "pageType": "database",
+    "navLabel": "Wiki",
+    "title": "Steal a Superpower Wiki: Powers, Bosses, Packs & Codes",
+    "description": "Steal a Superpower wiki-style hub with a source-backed Roblox gameplay overview and fast links to powers, packs, bosses, codes, tier list and merge guidance.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Steal a Superpower Roblox guide",
+      "heading": "Steal a Superpower Wiki",
+      "lead": "Find the right Steal a Superpower Roblox guide without guessing. This independent wiki hub explains the verified game loop and links directly to focused pages for each task."
+    },
+    "sections": [
+      {
+        "id": "directory",
+        "heading": "Steal a Superpower Wiki: Choose Your Guide",
+        "paragraphs": [
+          "Start with what you want to solve. If you are looking for a reported reward, the Codes page is the right place. If you need to unlock an area, use the boss guide. The powers and packs pages cover different sides of the same system: cards are collected from packs and then used in combat or placed in your base.",
+          "This is an independent fan-made resource and is not the official Roblox website or a developer-operated wiki. It identifies the game by its official Roblox Place ID 74183246285569 so you do not accidentally follow advice for another similarly named stealing or power game."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "Codes and rewards",
+            "description": "Reported codes, sources, and redemption steps"
+          },
+          {
+            "slug": "powers",
+            "label": "Powers and cards",
+            "description": "Named elements, moves and leveling"
+          },
+          {
+            "slug": "bosses",
+            "label": "Dominus bosses",
+            "description": "Progression and boss loot"
+          },
+          {
+            "slug": "packs",
+            "label": "Ability packs",
+            "description": "Known pack routes and the group offer"
+          },
+          {
+            "slug": "tier-list",
+            "label": "Evidence-first tier list",
+            "description": "Compare cards without invented ratings"
+          },
+          {
+            "slug": "how-to-merge",
+            "label": "Merge guide",
+            "description": "Identify the Merge 2 / Merge 4 controls and what still needs confirmation"
+          }
+        ]
+      },
+      {
+        "id": "game-identity",
+        "heading": "What Game Does This Wiki Cover?",
+        "paragraphs": [
+          "Steal a Superpower! is a Roblox experience by 11 R$ Productions. The official description introduces ability packs, collectible powers and Dominus bosses. The gameplay loop is both a fighting game and a collecting/base-building game: what you equip changes combat, while what you place on holders adds income.",
+          "The official page lists lightning, fire, frost, gravity, time, shadow and gold among the available power themes and adds 'and more.' These are examples from the creator, not a promise that this wiki has every current card name. The same description names Dominus Empyreus as the final boss. The live game can change, so dated source-backed information is preferable to a guessed exhaustive database.",
+          "The game itself should be launched on Roblox. Our guides do not host the executable, ask for your account password, redeem codes on your behalf or claim any connection to the development team."
+        ]
+      },
+      {
+        "id": "gameplay",
+        "heading": "The Core Gameplay Loop",
+        "paragraphs": [
+          "Open an ability pack to get a power card. Each card has its own moves, and leveling is described as unlocking its strongest ability. The player fights enemies across zones and defeats Dominus bosses to open subsequent areas. Boss loot chests and packs provide more opportunities to grow a collection.",
+          "The second half of the loop happens at your base. Putting cards on holders allows them to earn cash while you continue fighting. That means the best choice for your current battle is not necessarily the best card to leave on a holder. In addition, upgrades, trails and auras can improve Power, Health and speed.",
+          "The game also features kill streaks that provide multipliers and critical hits, an Index with permanent rewards for collecting rarities, and leaderboards for Top Cash and Top Power. These mechanics overlap, but each answers a different player question."
+        ],
+        "steps": [
+          {
+            "heading": "Collect",
+            "description": "Get cards from ability packs and review the moves actually shown in your collection."
+          },
+          {
+            "heading": "Fight",
+            "description": "Use a power against zone enemies and defeat bosses to access new areas."
+          },
+          {
+            "heading": "Build",
+            "description": "Place spare cards on base holders so they generate cash during fights."
+          }
+        ]
+      },
+      {
+        "id": "card-system",
+        "heading": "Powers, Card Levels and Rarity",
+        "paragraphs": [
+          "Choose a power by the move set it gives you and the task you are facing. A card can improve as you level it; however, exact move unlock thresholds are not stated by the developer description. Read the values in your own game when making upgrade decisions instead of trusting a generic 'max level' claim copied from another title.",
+          "The game mentions an Ancient card as an aspirational pull. The Index is tied to rarities collected, but the official description does not publish a complete rarity ladder, numerical drop rates or a full item roster. A useful wiki should distinguish named facts from missing data, so our Powers page deliberately does not fill those cells with invented values.",
+          "Our Tier List page explains how to evaluate battle effectiveness, boss progression and passive income separately. It does not assign unverified letter rankings simply to make a table look complete."
+        ],
+        "links": [
+          {
+            "slug": "powers",
+            "label": "Read the powers guide",
+            "description": "Verified elements and card progression"
+          },
+          {
+            "slug": "tier-list",
+            "label": "Compare powers",
+            "description": "An evidence-based evaluation checklist"
+          }
+        ]
+      },
+      {
+        "id": "boss-packs",
+        "heading": "Bosses, Packs and New Zones",
+        "paragraphs": [
+          "Defeating a Dominus boss matters because it opens the next area, and the official text associates boss victories with loot chests and the ability to bring packs home. It does not provide an exact boss order or a guaranteed chest-to-card reward chart.",
+          "The source-backed Bosses page keeps that distinction clear. For preparing to fight, look at the card you are actually using, whether its best move is available and whether the upgrade, trail or aura systems shown in the game can help. Do not mistake the official name of the final boss for a complete route.",
+          "Packs can be earned through progression and some reported codes. The creator also advertises a free Legend Pack to players who like the game and join the group. Check the precise requirements in Roblox; third-party guides should not collect login details or promise rewards that they cannot verify."
+        ],
+        "links": [
+          {
+            "slug": "bosses",
+            "label": "Boss progression",
+            "description": "What clearing a boss is documented to unlock"
+          },
+          {
+            "slug": "packs",
+            "label": "Find packs",
+            "description": "Sources, rewards and important limits"
+          }
+        ]
+      },
+      {
+        "id": "codes-merge",
+        "heading": "Codes and Merge Controls",
+        "paragraphs": [
+          "Promo codes are time-sensitive. Our English Codes page includes source labels and a review date; reported active means listed by a public source, not recently redeemed in our account. If you play in Thai, a dedicated Thai guide provides the same reported code strings with Thai instructions and a direct link back to English.",
+          "Some publicly discussed gameplay screenshots show UI buttons labelled Merge 2 and Merge 4. Those labels are useful evidence that a merging-related control exists, but they do not establish the required duplicates, the outcome or the conditions for use. The focused Merge guide identifies what is visible and how to inspect your current game UI safely without pretending to have an official fusion recipe."
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "English codes",
+            "description": "Exact reported strings and source status"
+          },
+          {
+            "slug": "th/codes",
+            "label": "โค้ดภาษาไทย",
+            "description": "คำแนะนำการแลกรหัสภาษาไทย"
+          },
+          {
+            "slug": "how-to-merge",
+            "label": "How to merge",
+            "description": "Understand the visible controls and evidence limits"
+          }
+        ]
+      },
+      {
+        "id": "strategy",
+        "heading": "What Should a New Player Do First?",
+        "paragraphs": [
+          "First, check any available packs and the powers you own. Equip a card you can use comfortably, learn its moves and review the leveling information. Work toward the next zone by fighting enemies and the boss that gates access. When you gain additional cards, consider the base-income use of holders as well as the combat use of the equipped card.",
+          "If a fight becomes difficult, review the upgrading systems before assuming you need a different element. The official developer description explicitly names upgrades, trails, auras, critical hits and kill-streak bonuses as sources of progress. It does not give a universal spending order, so inspect your own costs and effects.",
+          "After a successful boss attempt, collect the rewards available in the game and check whether the new area opened. Then return to the relevant focused guide instead of relying on a long generalized walkthrough. This wiki exists to make those next steps easy to find."
+        ],
+        "table": {
+          "caption": "Look up the next step by your goal",
+          "columns": [
+            "Your goal",
+            "Start here",
+            "What you will find"
+          ],
+          "rows": [
+            [
+              "Get a reward",
+              "Codes",
+              "Reported strings, sources, and redemption caveats"
+            ],
+            [
+              "Improve abilities",
+              "Powers",
+              "Card types, moves, leveling"
+            ],
+            [
+              "Choose a card",
+              "Tier List",
+              "Evidence standards and a comparison method"
+            ],
+            [
+              "Open a new area",
+              "Bosses",
+              "Boss-to-zone progression"
+            ],
+            [
+              "Find more cards",
+              "Packs",
+              "Known pack sources"
+            ],
+            [
+              "Inspect merging",
+              "Merge Guide",
+              "Merge buttons and what has not been verified"
+            ]
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is this the official Steal a Superpower wiki?",
+        "answer": "No. This is an independent guide to the Roblox experience with Place ID 74183246285569."
+      },
+      {
+        "question": "How do I obtain more powers?",
+        "answer": "The official game description says to open ability packs to collect power cards. Specific pack-to-card odds are not published there."
+      },
+      {
+        "question": "How do I unlock the next area?",
+        "answer": "The developer describes defeating Dominus bosses as the way to open the next area."
+      },
+      {
+        "question": "Can I redeem codes on this site?",
+        "answer": "No. Follow the code guide and enter valid codes inside the Roblox game."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "powers",
+      "bosses",
+      "packs",
+      "tier-list",
+      "how-to-merge",
+      "th/codes"
+    ],
+    "lastReviewed": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569/Steal-a-Superpower",
+        "title": "Steal a Superpower! — official Roblox description",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://stealasuperpower.com/wiki/",
+        "title": "Independent wiki: public UI labels and gameplay source comparison",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-merge",
+    "pageType": "guide",
+    "navLabel": "Merge Guide",
+    "title": "How to Merge in Steal a Superpower (Roblox Guide)",
+    "description": "How to merge in Steal a Superpower: identify Merge 2 and Merge 4 buttons, check the live game requirements, and avoid unverified recipes or loss of cards.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Steal a Superpower Roblox guide",
+      "heading": "How to Merge in Steal a Superpower (Roblox Guide)",
+      "lead": "Looking for the merge controls in Steal a Superpower? Public gameplay captures show Merge 2 and Merge 4 buttons, but no reliable official recipe or result chart has been published. Here is what you can safely check in your own game."
+    },
+    "sections": [
+      {
+        "id": "answer",
+        "heading": "How to Merge in Steal a Superpower",
+        "paragraphs": [
+          "Two pieces of external gameplay evidence show merging-related controls: a public gameplay HUD walkthrough describes Merge 2 and Merge 4 buttons on the lower action bar, and a separately compiled wiki reports the same labels in both a screenshot and a gameplay video. These observations are about the Roblox experience at Place ID 74183246285569, not another 'steal a power' game.",
+          "That establishes a visible place to start looking; it does not establish what cards a merge consumes, whether it needs duplicates, what exact result appears or whether every account sees the same options. The developer's official description talks about collecting and leveling power cards but does not explain the merge recipe. Avoid any guide that quietly invents a two-card or four-card formula from the button labels alone.",
+          "If you cannot see Merge 2 or Merge 4 in your current client, check the full action bar and your collection screens. Updates, UI scaling and the state of your account can affect what is visible. This page does not guarantee a button will be available on every build."
+        ]
+      },
+      {
+        "id": "steps",
+        "heading": "Find the Merge Controls Without Guessing a Recipe",
+        "paragraphs": [
+          "Open the correct official Roblox game and allow its interface to load. A third-party screenshot comparison places the merge controls around the bottom HUD alongside the normal action controls. On a narrow phone display, inspect the complete lower bar rather than assuming a card menu has the same layout as a desktop screenshot.",
+          "Before pressing a merge button, inspect the cards in your collection and note which ones are equipped or earning cash on holders. Look at any confirmation UI presented by the live game. If the interface does not specify which cards or quantities are required, do not infer the cost from the button name.",
+          "If a merge operation is offered, read its actual preview and on-screen confirmation before you approve it. Afterwards, inspect your collection and base again to see what changed. This is a verification process for your own save, not a claim that a particular ingredient count, rarity upgrade or stat increase has been tested here."
+        ],
+        "steps": [
+          {
+            "heading": "Open the official game",
+            "description": "Use Place ID 74183246285569 and let the HUD fully load."
+          },
+          {
+            "heading": "Locate Merge 2 / Merge 4",
+            "description": "Look near the bottom action bar as shown in public gameplay captures; placement may change."
+          },
+          {
+            "heading": "Read the live requirements",
+            "description": "Check the in-game preview, eligible cards and any confirmation before acting."
+          }
+        ]
+      },
+      {
+        "id": "evidence",
+        "heading": "What the Merge 2 and Merge 4 Labels Do — and Do Not — Prove",
+        "paragraphs": [
+          "The labels are visual evidence of a merge-related action, not proof of a complete crafting system. In particular, the numeral in Merge 2 cannot be treated as an official requirement to spend two duplicates without an in-game explanation or confirmed footage of that transaction.",
+          "Automated-script promotional pages also refer to 'Auto Merge' or 'Merge Duplicate Cards.' Those third-party automation descriptions are not official tutorials, do not confirm a stable game mechanic and are not instructions we recommend running. An external script can carry account and device risk and should not be necessary to learn how to use the ordinary game interface.",
+          "The facts listed below are deliberately separated so you can tell what needs to be checked when you play."
+        ],
+        "table": {
+          "caption": "Merge documentation status reviewed November 12, 2026",
+          "columns": [
+            "Question",
+            "Current evidence",
+            "Practical action"
+          ],
+          "rows": [
+            [
+              "Does a merge control exist?",
+              "Public HUD reports show Merge 2 and Merge 4",
+              "Locate them on your own client"
+            ],
+            [
+              "How many duplicate cards are required?",
+              "Not established by the official description",
+              "Read the exact requirement in game"
+            ],
+            [
+              "Does merging increase rarity or level?",
+              "No verified outcome chart available",
+              "Check the preview and resulting card"
+            ],
+            [
+              "Is merging reversible?",
+              "No published reversal rule verified",
+              "Avoid committing valuable cards without confirming"
+            ],
+            [
+              "Is an external executor required?",
+              "No official evidence requires one",
+              "Use only the native Roblox controls"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "preparation",
+        "heading": "What to Check Before You Merge",
+        "paragraphs": [
+          "First, identify the card you actively use in combat. Because leveling unlocks its strongest move, an accidentally lost or altered favorite could affect your current progression. Second, review the cards earning cash on base holders: they have a different role from the equipped power and may be useful even if they are not your strongest fighters.",
+          "Third, pay attention to the Index. The game description ties permanent rewards to collecting different rarities, but it does not say a merge improves Index progress. Keep track of your collection before and after an operation rather than assuming an upgraded card automatically counts as a new rarity.",
+          "Finally, remember that Roblox games change. If a screen you see today contradicts a November screenshot, the current game's labels and confirmation are more relevant than an older guide. Never enter your Roblox login details into a third-party merging calculator."
+        ],
+        "links": [
+          {
+            "slug": "powers",
+            "label": "Understand cards and leveling",
+            "description": "Separate card levels from unknown merge outcomes"
+          },
+          {
+            "slug": "packs",
+            "label": "Find more cards",
+            "description": "Documented ways to grow your collection"
+          },
+          {
+            "slug": "wiki",
+            "label": "Browse the wiki",
+            "description": "Other verified gameplay systems"
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Why Is the Merge Button Missing or Not Responding?",
+        "paragraphs": [
+          "If you cannot find a merge button, check whether the action bar is collapsed or partly outside the visible mobile viewport. On desktop, look for the lower action controls described in public screenshots. A screenshot from a different Roblox title is not a reliable map for this experience.",
+          "If the control is disabled, the game may be asking for an unmet condition, but the currently available official description does not specify one. Read the on-screen explanation, if any, and inspect your current collection. Do not make repeated irreversible attempts simply because a guide guessed a required ingredient.",
+          "If an operation appears to work but the result is unclear, check the collection, equipped card and holder setup. If your display or inventory has not refreshed, the safest action is to verify in the normal Roblox interface rather than downloading an unauthorized script."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources and What Remains Unverified",
+        "paragraphs": [
+          "The official Roblox experience description confirms collectible powers, card leveling, packs and holders. The independent gameplay sources report the Merge 2 / Merge 4 HUD labels. Neither provides a step-by-step official recipe, verified ingredient count, success rate, new rarity rule or a recorded before-and-after transaction.",
+          "Therefore this is a control-finding and safe-verification guide, not a fabricated merge recipe. It will be updated when credible gameplay captures or official information show a complete operation. The current review date identifies the sources checked, not an in-game merge test."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is the merge button in Steal a Superpower?",
+        "answer": "Independent gameplay screenshots report Merge 2 and Merge 4 buttons around the bottom action bar. Confirm their current location inside the live game."
+      },
+      {
+        "question": "Do I need two or four duplicate cards?",
+        "answer": "The labels alone do not establish ingredient requirements. Read the live game's requirement or confirmation."
+      },
+      {
+        "question": "Can merging create an Ancient card?",
+        "answer": "No credible source reviewed here establishes that outcome or its probability."
+      },
+      {
+        "question": "Should I use an Auto Merge script?",
+        "answer": "No. Use the ordinary Roblox interface; third-party executors are not required by any verified official source."
+      }
+    ],
+    "relatedSlugs": [
+      "powers",
+      "packs",
+      "wiki",
+      "tier-list"
+    ],
+    "lastReviewed": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569/Steal-a-Superpower",
+        "title": "Steal a Superpower! — official Roblox description",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://stealasuperpower.com/wiki/",
+        "title": "Independent wiki: public UI labels and gameplay source comparison",
+        "sourceType": "guide"
+      },
+      {
+        "url": "https://freshgameradar.com/guides/steal-a-superpower-beginner-guide/",
+        "title": "Independent gameplay guide: mobile merge buttons",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "th/codes",
+    "pageType": "codes",
+    "navLabel": "Thai Codes",
+    "title": "โค้ด Steal a Superpower ล่าสุดและวิธีแลกโค้ด Roblox",
+    "description": "รวมโค้ด Steal a Superpower ที่มีแหล่งข้อมูลอ้างอิง วิธีกรอกรหัสในเกม Roblox และคำแนะนำเมื่อโค้ดใช้ไม่ได้ พร้อมระบุสถานะที่ยังไม่ได้ทดสอบจริง",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Steal a Superpower Roblox guide",
+      "heading": "โค้ด Steal a Superpower",
+      "lead": "รวมรหัสของเกม Steal a Superpower! บน Roblox พร้อมวิธีแลกโค้ดภาษาไทย รายการนี้เป็นรหัสที่เว็บไซต์ภายนอกรายงานไว้ ไม่ใช่การยืนยันว่าเราแลกสำเร็จในเกมวันนี้"
+    },
+    "sections": [
+      {
+        "id": "code-list",
+        "heading": "โค้ด Steal a Superpower ที่มีการรายงาน",
+        "paragraphs": [
+          "รหัสด้านล่างคัดมาจากหน้ารวมโค้ดภาษาอังกฤษของเว็บไซต์นี้ โดยคงตัวอักษรภาษาอังกฤษและตัวเลขตามต้นฉบับทุกตัว ไม่แปลรหัส เพราะการเปลี่ยนตัวพิมพ์หรือเว้นวรรคอาจทำให้กรอกผิดได้ ตรวจสอบแหล่งที่มาและวันที่ตรวจทานในตารางก่อนใช้งาน",
+          "สถานะที่ระบุว่าเว็บไซต์ภายนอกรายงานว่าใช้ได้ ไม่ได้หมายความว่าทีมงานได้เข้าระบบ Roblox ไปทดลองแลกด้วยบัญชีจริง โค้ดอาจหมดอายุ ถูกปิดใช้งาน หรือเคยใช้ไปแล้วได้ตลอดเวลา แนะนำให้ทดลองในช่องกรอกโค้ดของเกมโดยตรง",
+          "เกมที่กล่าวถึงคือ Steal a Superpower! ของ 11 R$ Productions โดยใช้ลิงก์เกมทางการที่มีหมายเลข Place ID 74183246285569 อย่าสับสนกับเกมอื่นที่มีชื่อคล้ายกัน"
+        ],
+        "codes": [
+          {
+            "code": "DISCORD",
+            "reward": "1 Legend Pack",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "POTIONS",
+            "reward": "1 Luck Potion II",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "1KCCU",
+            "reward": "1 Power Potion II",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "10KLIKES",
+            "reward": "1 Power Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "20KLIKES",
+            "reward": "1 Luck Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "SOZFORUPDATES",
+            "reward": "1 Power Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          },
+          {
+            "code": "30KLIKES",
+            "reward": "1 Luck Potion III",
+            "sourceUrl": "https://robloxden.com/game-codes/steal-a-superpower",
+            "sourceLabel": "Roblox Den",
+            "checked": "2026-11-05",
+            "status": "มีรายงานว่าใช้งานได้จากแหล่งภายนอก · ยังไม่ได้ทดสอบแลกจริงในเกม"
+          }
+        ]
+      },
+      {
+        "id": "redeem",
+        "heading": "วิธีแลกโค้ด Steal a Superpower ใน Roblox",
+        "paragraphs": [
+          "เริ่มจากเปิดเกมทางการผ่าน Roblox แล้วรอให้หน้าจอโหลดเสร็จ มองหาปุ่ม Codes ในอินเทอร์เฟซของเกม ซึ่งมีการระบุตำแหน่งไว้บริเวณด้านขวาบนในภาพหน้าจอของเกมที่เผยแพร่ไว้ หากเล่นบนโทรศัพท์ ตำแหน่งหรือขนาดปุ่มอาจต่างจากภาพบนคอมพิวเตอร์",
+          "คัดลอกรหัสหนึ่งรายการจากด้านบน แล้ววางลงในช่องกรอกโค้ดของเกม ตรวจสอบว่ามีตัวอักษรครบ ไม่มีช่องว่างเกินมา และไม่ได้แปลข้อความภาษาอังกฤษ จากนั้นกดยืนยันตามปุ่มที่เกมแสดงจริง อย่ากรอกผ่านเว็บไซต์ที่ขอรหัสผ่าน Roblox",
+          "หากขึ้นข้อความสำเร็จ ให้ตรวจสอบของรางวัลในเกมอีกครั้ง บางโค้ดมีรายงานว่าให้โพชันเพิ่มพลังหรือเพิ่มโชค บางรายการเกี่ยวกับแพ็กการ์ด แต่ของรางวัลและสถานะในหน้าจอเกมจริงเป็นข้อมูลที่ควรยึดเป็นหลัก"
+        ],
+        "steps": [
+          {
+            "heading": "เข้าเกม Roblox",
+            "description": "เปิด Steal a Superpower! จากลิงก์เกมทางการเท่านั้น"
+          },
+          {
+            "heading": "เปิดเมนู Codes",
+            "description": "ตรวจสอบปุ่ม Codes ในหน้าจอเกม และเลือกโค้ดที่ยังไม่ได้ลอง"
+          },
+          {
+            "heading": "วางรหัสและยืนยัน",
+            "description": "คัดลอกรหัสตรงตามต้นฉบับ แล้วอ่านข้อความตอบกลับจากเกม"
+          }
+        ]
+      },
+      {
+        "id": "status",
+        "heading": "โค้ดใช้ไม่ได้เกิดจากอะไร?",
+        "paragraphs": [
+          "เหตุผลแรกคือรหัสอาจหมดอายุแล้ว แม้จะยังปรากฏอยู่บนเว็บไซต์รวมโค้ดก็ตาม ข้อมูลจากสื่อและชุมชนเป็นเพียงช่วงเวลาที่มีการเผยแพร่ ไม่ใช่การรับประกันแบบเรียลไทม์ เหตุผลที่สองคือคุณอาจใช้รหัสเดียวกันไปแล้ว บางเกมไม่อนุญาตให้แลกซ้ำด้วยบัญชีเดิม",
+          "อีกสาเหตุที่พบบ่อยคือคัดลอกข้อความไม่ครบหรือมีเว้นวรรคเกิน ตรวจสอบตัวเลขและตัวอักษรโดยไม่แก้ไขเอง หากหน้าจอแสดงข้อผิดพลาด ให้ดูคำอธิบายที่เกมแสดงจริงก่อนลองรหัสอื่น ไม่ควรเชื่อเว็บไซต์ที่อ้างว่าสามารถปลดล็อกโค้ดหมดอายุได้",
+          "เมื่อมีการอัปเดตเกม ผู้พัฒนาอาจเพิ่ม ปรับ หรือปิดระบบรางวัลได้ จึงควรตรวจสอบประกาศจากผู้พัฒนาและหน้าของเกมใน Roblox ควบคู่กับรายการโค้ดจากเว็บไซต์ภายนอก"
+        ],
+        "table": {
+          "caption": "ตรวจสอบปัญหาก่อนลองอีกครั้ง",
+          "columns": [
+            "อาการ",
+            "สิ่งที่ควรตรวจสอบ"
+          ],
+          "rows": [
+            [
+              "เกมแจ้งว่ารหัสไม่ถูกต้อง",
+              "ตรวจสอบตัวอักษร ตัวเลข และช่องว่าง"
+            ],
+            [
+              "เกมแจ้งว่าใช้ไปแล้ว",
+              "เช็กว่าบัญชีเดิมเคยแลกรหัสนี้หรือไม่"
+            ],
+            [
+              "ไม่มีของรางวัลปรากฏ",
+              "อ่านข้อความตอบกลับและตรวจดูคลังในเกม"
+            ],
+            [
+              "หาเมนู Codes ไม่พบ",
+              "ตรวจสอบหน้าจอเกมและตำแหน่งปุ่มตามอุปกรณ์"
+            ],
+            [
+              "รายการโค้ดจากเว็บไม่ตรงกัน",
+              "เทียบวันที่ของแหล่งข้อมูลและประกาศทางการ"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "rewards",
+        "heading": "ของรางวัลจากโค้ดมีอะไรบ้าง?",
+        "paragraphs": [
+          "รายการที่อ้างอิงจากหน้ารวมโค้ดภาษาอังกฤษของเราแสดงรางวัลที่มีการรายงาน เช่น Luck Potion, Power Potion และ Legend Pack อย่างไรก็ตาม รายการของรางวัลเหล่านี้ยังไม่ได้ผ่านการทดสอบด้วยบัญชีเกมของเราในวันที่ตรวจทาน",
+          "โพชันและแพ็กทำหน้าที่ต่างกันตามชื่อและคำอธิบายที่แหล่งข้อมูลเผยแพร่ แพ็กเกี่ยวข้องกับการสะสมการ์ด ส่วนตัวเกมอธิบายว่าการ์ดแต่ละใบมีท่าโจมตีของตนเองและสามารถเพิ่มเลเวลเพื่อปลดล็อกท่าที่ทรงพลังขึ้น อย่าตีความว่าโค้ดหนึ่งรายการรับประกันว่าจะได้การ์ดหายาก",
+          "ผู้พัฒนายังประกาศข้อเสนอแพ็ก Legend ฟรีสำหรับการกดถูกใจเกมและเข้าร่วมกลุ่มใน Roblox ซึ่งเป็นคนละเรื่องกับการกรอกรหัส ควรอ่านเงื่อนไขบนหน้าจอเกมจริงก่อนทำตาม"
+        ],
+        "links": [
+          {
+            "slug": "packs",
+            "label": "คู่มือแพ็กการ์ด (English)",
+            "description": "ข้อมูลวิธีได้รับแพ็กและข้อควรระวัง"
+          },
+          {
+            "slug": "powers",
+            "label": "คู่มือพลัง (English)",
+            "description": "ความสามารถและการเพิ่มเลเวลการ์ด"
+          }
+        ]
+      },
+      {
+        "id": "source-date",
+        "heading": "แหล่งข้อมูลและวันที่ตรวจสอบ",
+        "paragraphs": [
+          "เราแสดงโค้ดจากหน้าภาษาอังกฤษของเว็บไซต์เดิม ซึ่งมีบันทึกแหล่งข้อมูลและวันที่ตรวจทาน 5 พฤศจิกายน 2026 การเผยแพร่บทความภาษาไทยในวันที่ใหม่กว่าไม่ได้หมายความว่ารหัสทุกตัวได้รับการทดสอบใหม่ในวันนั้น",
+          "หากคุณต้องการดูข้อความภาษาอังกฤษ รางวัลตามที่แหล่งข้อมูลรายงาน และลิงก์ต้นทาง โปรดเปิดหน้ารวม Codes ภาษาอังกฤษได้โดยตรง เนื้อหาภาษาไทยนี้ทำขึ้นเพื่อช่วยให้ผู้เล่นเข้าใจขั้นตอนและข้อจำกัด ไม่ใช่การรับประกันของรางวัล",
+          "เว็บไซต์นี้เป็นคู่มือแฟนเกมอิสระ ไม่เกี่ยวข้องกับ Roblox หรือผู้พัฒนาเกม ไม่ขอรหัสผ่าน ไม่สามารถแลกรางวัลแทนผู้เล่น และไม่ควรใช้เป็นแหล่งยืนยันสถานะโค้ดแบบทันที"
+        ],
+        "links": [
+          {
+            "slug": "codes",
+            "label": "English Codes — ดูต้นฉบับ",
+            "description": "ข้อมูลแหล่งที่มาและรายการรหัสภาษาอังกฤษ"
+          },
+          {
+            "slug": "wiki",
+            "label": "Wiki ภาษาอังกฤษ",
+            "description": "รวมคู่มือระบบเกมอื่น ๆ"
+          }
+        ]
+      },
+      {
+        "id": "play",
+        "heading": "เปิดเกม Steal a Superpower อย่างปลอดภัย",
+        "paragraphs": [
+          "การแลกรหัสทั้งหมดต้องทำใน Roblox โดยใช้เกมที่ถูกต้องตามหมายเลข Place ID 74183246285569 หากมีข้อความเชิญให้ลงชื่อเข้าใช้จากหน้าเว็บที่ไม่ใช่ Roblox หรือขอข้อมูลบัญชีเพื่อแลกโค้ด ควรหยุดก่อนและกลับไปใช้ช่องกรอกในเกม",
+          "ผู้เล่นสามารถศึกษาระบบพลัง บอส และแพ็กจากคู่มืออื่นของเว็บไซต์ แล้วกลับมาใช้โค้ดที่มีแหล่งข้อมูลอ้างอิงได้ตามต้องการ ตรวจสอบสถานะในเกมเสมอเพราะข้อมูลการแลกรางวัลเปลี่ยนได้ตลอดเวลา"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "โค้ด Steal a Superpower ใช้ได้แน่นอนหรือไม่?",
+        "answer": "ไม่สามารถรับประกันได้ รายการนี้รวบรวมรหัสที่มีรายงานจากเว็บไซต์ภายนอกและยังไม่ได้ทดสอบแลกจริงในเกม ณ วันนี้"
+      },
+      {
+        "question": "ต้องกรอกโค้ดที่เว็บไซต์นี้หรือไม่?",
+        "answer": "ไม่ต้องกรอกที่เว็บไซต์นี้ ให้เปิด Roblox แล้วใช้เมนู Codes ภายในเกมเท่านั้น"
+      },
+      {
+        "question": "ทำไมแลกโค้ดแล้วไม่สำเร็จ?",
+        "answer": "รหัสอาจหมดอายุ เคยใช้แล้ว หรือคัดลอกผิด ตรวจสอบข้อความในเกมและรายละเอียดของรหัสอีกครั้ง"
+      },
+      {
+        "question": "สามารถอ่านคู่มือภาษาอังกฤษได้ที่ไหน?",
+        "answer": "เปิดหน้า Codes ภาษาอังกฤษผ่านลิงก์ด้านบนเพื่อดูรายการต้นฉบับและแหล่งข้อมูลที่อ้างอิง"
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "packs",
+      "powers",
+      "wiki"
+    ],
+    "lastReviewed": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/74183246285569/Steal-a-Superpower",
+        "title": "Steal a Superpower! — official Roblox description",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://robloxden.com/game-codes/steal-a-superpower",
+        "title": "Roblox Den code reports, last reviewed by site 2026-11-05",
+        "sourceType": "guide"
+      }
+    ]
   }
 ]

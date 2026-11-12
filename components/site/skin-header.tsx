@@ -12,7 +12,7 @@ function current(slug: string, pathname: string) {
   const target = routePath(slug).replace(/\/+$/, "") || "/";
   const path = pathname.replace(/\/+$/, "") || "/";
   if (target === "/") return path === "/" || path.split("/").filter(Boolean).length === 0;
-  return path === target || path.endsWith(target);
+  return path === target;
 }
 
 export function SkinHeader({ links, skin }: { links: InternalLink[]; skin: ThemeSkin }) {

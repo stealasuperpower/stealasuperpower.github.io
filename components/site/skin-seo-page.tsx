@@ -20,7 +20,7 @@ export function SkinSeoPage({ page }: { page: SeoPageDefinition }) {
   return (
     <>
       <JsonLd data={pageSchemas(page)} />
-      <main className={`skin-article skin-article-${skin}`}>
+      <main lang={page.slug.startsWith("th/") ? "th" : undefined} className={`skin-article skin-article-${skin}`}>
         <header className="skin-article-hero">
           <div className="site-container">
             <Breadcrumbs slug={page.slug} current={page.hero.heading} />
@@ -29,7 +29,7 @@ export function SkinSeoPage({ page }: { page: SeoPageDefinition }) {
             <p className="section-lead">{page.hero.lead}</p>
             <p className="skin-reviewed">
               <CalendarCheck2 size={16} />
-              Last reviewed: <time dateTime={page.lastReviewed}>{page.lastReviewed}</time>
+              {page.slug.startsWith("th/") ? "ตรวจทานล่าสุด:" : "Last reviewed:"} <time dateTime={page.lastReviewed}>{page.lastReviewed}</time>
             </p>
           </div>
         </header>

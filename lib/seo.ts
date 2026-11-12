@@ -28,7 +28,7 @@ export function pageMetadata(page: MetadataPage): Metadata {
     },
     openGraph: {
       type: "website",
-      locale: siteConfig.locale,
+      locale: page.slug.startsWith("th/") ? "th_TH" : siteConfig.locale,
       siteName: siteConfig.siteName,
       title: page.title,
       description: page.description,
